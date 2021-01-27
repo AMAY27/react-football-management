@@ -1,0 +1,53 @@
+ [
+    {
+        "name": "Cristiano Ronaldo",
+        "position": "Right winger"
+    },
+    {
+        "name": "Lionel Messi",
+        "position": "Left winger"
+    }, 
+    {
+        "name": "Robert Lewandowski",
+        "position": "Centre forward"
+    },   
+    {
+        
+        "name": "Sunil Chetri",
+        "position": "Centre forward"
+    },
+    {
+             "name": "Paul Pogba",
+        "position": "Mid fielder"
+    },   
+    {
+                "name": "Luka Modric",
+        "position": "Mid fielder"
+    },    
+    {
+        
+        "name": "Sergio Ramos",
+        "position": "Right Back"
+    },    
+    {
+                "name": "Marcelo",
+        "position": "Left Back"
+    },    
+    {
+        
+        "name": "David Luiz",
+        "position": "Centre back"
+    },    
+    {
+       
+        "name": "Virgil van Dijk",
+        "position": "Centre back"
+    },    
+    {
+        "name": "Manual Neuer",
+        "position": "Goalkeeper"
+    }
+
+
+    
+]

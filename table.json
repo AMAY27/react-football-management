@@ -1,0 +1,22 @@
+[
+{
+    "tname": "team A",
+    "tpoints": 5
+ },
+ {
+     "tname": "team B",
+     "tpoints": 12
+ },
+ {
+     "tname": "team C",
+     "tpoints": 13
+ },
+ {
+     "tname": "team D",
+     "tpoints": 9
+ },
+ {
+     "tname": "team E",
+     "tpoints": 17
+ }
+]

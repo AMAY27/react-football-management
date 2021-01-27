@@ -1,0 +1,32 @@
+[
+    {
+        "tname":"team A",
+        "wins" : 3,
+        "matches" : 5,
+        "tpoints" : 5
+    },
+    {
+        "tname":"team B",
+        "wins" : 5,
+        "matches" : 5,
+        "tpoints" : 12
+    },
+    {
+        "tname":"team C",
+        "wins" : 0,
+        "matches" : 5,
+        "tpoints" : 13
+    },
+    {
+        "tname":"team D",
+        "wins" : 2,
+        "matches" : 5,
+        "tpoints" : 9
+    },
+    {
+        "tname":"team E",
+        "wins" : 4,
+        "matches" : 5,
+        "tpoints" : 17
+    }
+]
